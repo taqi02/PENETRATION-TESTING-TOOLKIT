@@ -31,3 +31,17 @@ The toolkit’s second module is a lightweight Port Scanner built with Python’
 Putting the pieces together, the scanner acts as the reconnaissance stage find the door while the brute‑forcer represents the attack phase try to unlock that door. Writing both tools myself, watching packets succeed or fail, and fixing each snag taught me more than any tutorial alone could. The project sharpened my understanding of sockets, HTTP mechanics, and defensive measures that real applications should adopt to stay safe.
 
 *OUTPUT*
+
+![Image](https://github.com/user-attachments/assets/25ee9356-df59-4f1b-b844-1c66d9cd34c9)
+
+![Image](https://github.com/user-attachments/assets/b865f5f0-d59f-4ab4-b95e-a0bbb854d368)
+
+![Image](https://github.com/user-attachments/assets/34ba26c2-f8cd-4112-87b7-7425785730d0)
+
+![Image](https://github.com/user-attachments/assets/9b69ea56-00a5-4de8-a541-d733d7e28556)
+
+![Image](https://github.com/user-attachments/assets/fa5186df-34fb-4be6-9cd7-e20d16b7c7ab)
+
+![Image](https://github.com/user-attachments/assets/b2956305-eb94-4ad7-b8e5-a0a5a34825cc)
+
+![Image](https://github.com/user-attachments/assets/ed6b7776-25c3-48dd-9490-f87fd4549ec7)
